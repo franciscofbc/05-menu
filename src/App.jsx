@@ -23,7 +23,7 @@ const App = () => {
 
   return (
     <main>
-      <Title />
+      <Title title="our menu" />
       <Categories categories={categories} filterByCategory={filterByCategory} />
       <Menu menu={menu} />
     </main>
