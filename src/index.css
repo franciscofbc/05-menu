@@ -322,6 +322,7 @@ article .info div span {
   padding: 0.25rem 0.5rem;
   border-radius: var(--borderRadius);
   color: var(--white);
+  letter-spacing: var(--letterSpacing);
 }
 
 article p {
